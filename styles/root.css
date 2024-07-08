@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Press+Start+2P&display=swap');
+
+:root {
+    /*paleta de cores*/
+    
+    --body-bg-color:#131313;
+    --theme-color:#FC6625;
+    --text-color: #f2f2f2;
+
+    /*fontes*/
+    
+    --title-font-family: "Press Start 2P", system-ui;
+    --generic-font-family: "Noto Sans", sans-serif;
+
+    /*font-weight*/
+
+    --regular-weight: 400;
+    --medium-weight: 600;
+}
